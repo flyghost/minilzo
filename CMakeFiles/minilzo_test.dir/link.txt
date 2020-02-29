@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/minilzo_test.dir/examples/example1.c.o CMakeFiles/minilzo_test.dir/miniz.c.o CMakeFiles/minilzo_test.dir/miniz_zip.c.o CMakeFiles/minilzo_test.dir/miniz_tinfl.c.o CMakeFiles/minilzo_test.dir/miniz_tdef.c.o  -o bin/minilzo_test 

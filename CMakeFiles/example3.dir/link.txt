@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/example3.dir/examples/example3.c.o  -o bin/example3 -Wl,-rpath,/home/wzy/miniz libminiz.so.2.1.0 

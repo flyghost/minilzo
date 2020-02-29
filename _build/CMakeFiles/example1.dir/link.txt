@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/example1.dir/examples/example1.c.o  -o ../bin/example1 libminiz.a 

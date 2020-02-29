@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libminiz.so.2 -o libminiz.so.2.1.0 CMakeFiles/miniz.dir/miniz.c.o CMakeFiles/miniz.dir/miniz_zip.c.o CMakeFiles/miniz.dir/miniz_tinfl.c.o CMakeFiles/miniz.dir/miniz_tdef.c.o 
